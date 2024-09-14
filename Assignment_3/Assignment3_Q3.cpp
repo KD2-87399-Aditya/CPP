@@ -44,7 +44,6 @@ class address{
         string strt;
         string cty;
         int pin;
-
         cout<<"Enter bulding : "<<endl;
         getline(cin, bld);
         setBuilding(bld);
